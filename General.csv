@@ -39,16 +39,6 @@ d2a52934-13e5-415f-91bc-c3691f8b32f0,sundries.space,available,68,92,8,,,
 46d28ed2-99d1-4fb5-9e74-32cdff9e1a31,sundries.tech,expiring,68,92,8,"Registrar of Domain Names REG.RU, LLC",12/07/2024 09:56,12/07/2025 23:59
 dc586cb0-b413-4480-bc47-89b1f39f79da,sundries.xyz,resell,68,92,8,"Automattic Inc. ",30/12/2021 01:13,30/12/2030 23:59
 2e353a85-f10c-41da-914d-f7799fc8e0d4,sundries.zone,available,68,92,8,,,
-614b79fd-af6b-403a-9f19-4774d407a795,snacks.expert,available,,48,6,,,
-19cbc67a-0cd7-422f-b316-81252ccad7ec,snacks.it,expiring,,48,6,,06/08/2013 16:00,31/07/2025 00:00
-fa0e3dc1-bb63-461f-a645-8cb3cf1122e3,snacks.me,resell,,48,6,"Name105, Inc.",04/10/2013 02:35,04/10/2025 02:35
-6c9eb22b-8036-4804-9617-4896da30b0de,snacks.ninja,available,,48,6,,,
-8a2b911e-736a-4ebd-849b-5597870fb857,snacks.online,available,,48,6,,,
-1fd8654e-ed8c-4161-be1d-72e217eebd21,snacks.pro,resell,,48,6,Epik LLC,27/11/2022 17:00,27/11/2025 17:00
-ef205f4a-9fe8-45a2-af9a-967b0fb6d493,snacks.site,available,,48,6,,,
-cfc7df0f-72d8-4eac-85b7-27485af97f05,snacks.so,available,,48,6,,,
-0ca164d6-8158-4fa5-bad3-ba0896e0fd32,snacks.space,available,,48,6,,,
-48820257-13de-41f8-af49-9ea0d7b0a1a8,snacks.tech,available,,48,6,,,
 abfaf62a-f1c6-49af-a10b-184826e2ee5d,provisions.at,available,70,72,10,,,
 a2ab3225-58c0-4911-9f4a-10de88649d30,provisions.co,resell,70,72,10,InternetX GmbH,06/06/2018 20:29,06/06/2026 20:29
 b965bf10-7353-43c5-9892-e2b26504c3d5,provisions.com,resell,70,72,10,Dynadot Inc,23/06/1997 04:00,22/06/2026 04:00
@@ -69,6 +59,16 @@ b039ef25-cc41-40bb-a54e-22888028abf9,provisions.tech,expiring,70,72,10,"CHENGDU 
 f015b307-c5ed-42f0-8a47-f3fd40cee868,snacks.app,expiring,,48,6,Tucows Domains Inc,24/07/2019 05:27,24/07/2025 05:27
 aaca82e1-327b-4943-9166-3686d6e78c96,snacks.cloud,available,,48,6,,,
 1691608f-e9c2-433b-a9f1-7b11c71792a1,snacks.co,expiring,,48,6,Hello Internet Corp.,20/07/2010 18:01,19/07/2025 23:59
+614b79fd-af6b-403a-9f19-4774d407a795,snacks.expert,available,,48,6,,,
+19cbc67a-0cd7-422f-b316-81252ccad7ec,snacks.it,expiring,,48,6,,06/08/2013 16:00,31/07/2025 00:00
+fa0e3dc1-bb63-461f-a645-8cb3cf1122e3,snacks.me,resell,,48,6,"Name105, Inc.",04/10/2013 02:35,04/10/2025 02:35
+6c9eb22b-8036-4804-9617-4896da30b0de,snacks.ninja,available,,48,6,,,
+8a2b911e-736a-4ebd-849b-5597870fb857,snacks.online,available,,48,6,,,
+1fd8654e-ed8c-4161-be1d-72e217eebd21,snacks.pro,resell,,48,6,Epik LLC,27/11/2022 17:00,27/11/2025 17:00
+ef205f4a-9fe8-45a2-af9a-967b0fb6d493,snacks.site,available,,48,6,,,
+cfc7df0f-72d8-4eac-85b7-27485af97f05,snacks.so,available,,48,6,,,
+0ca164d6-8158-4fa5-bad3-ba0896e0fd32,snacks.space,available,,48,6,,,
+48820257-13de-41f8-af49-9ea0d7b0a1a8,snacks.tech,available,,48,6,,,
 1dae93fa-fd60-4f91-b147-c28fd7ada125,staples.ai,resell,,48,7,Ewire,15/07/2018 15:39,15/07/2026 15:39
 75db9b85-ddbf-42ca-9ef6-779cb41f1ffc,staples.app,expiring,,48,7,"Global Domains International, Inc. DBA DomainCostClub.com",10/07/2024 16:38,10/07/2025 16:38
 30ab3b9b-4c9b-4b9d-85ca-159e3b34844c,staples.dev,available,,48,7,,,
@@ -125,16 +125,6 @@ cabc856c-4045-498f-b6c7-66308af09222,bread.site,available,102,92,5,,,
 132486aa-c6d9-4162-b5e8-47579ec7b914,bread.store,available,102,92,5,,,
 67a68d3e-5963-4d9a-bc62-884c1b2cc18b,bread.xyz,resell,102,92,5,"Go Daddy, LLC",02/06/2014 16:52,02/06/2026 23:59
 5343ecb8-9109-4329-88f5-5a80b17baa77,bread.zone,available,102,92,5,,,
-a5081cef-aeea-4943-9949-034c101cf163,soap.ai,resell,88,96,4,Lemonev,16/12/2017 04:40,24/04/2027 04:40
-de6a4095-99a6-457c-915e-5453042877db,soap.app,expiring,88,96,4,1API GmbH,23/07/2022 08:52,23/07/2025 08:52
-d1f46587-e9ec-410f-8e56-ac34210a40e4,soap.at,available,88,96,4,,,
-0f89998e-9f72-45d0-a1e8-60338b87b437,soap.cloud,available,88,96,4,,,
-4923adb8-75d3-4b89-88d1-379af59b271b,soap.expert,available,88,96,4,,,
-4abf529c-7ca8-409d-a384-420d64e35c67,soap.online,available,88,96,4,,,
-d1338114-6427-45eb-be51-9a244ba807b5,soap.pro,resell,88,96,4,Epik LLC,21/11/2015 01:29,21/11/2025 01:29
-c94c3add-9067-4705-8bba-858146fc8a9d,soap.site,available,88,96,4,,,
-00720d16-e1d8-40af-b3c2-8373e1617447,soap.space,available,88,96,4,,,
-e2590ce3-614b-406b-8341-ca5fd5159f7d,soap.store,available,88,96,4,,,
 eac9ddaf-4b88-4823-b890-efc99ce37bb0,generaldelivery.ai,available,56,76,16,,,
 fb823d41-f914-402c-b603-f5c85538709d,generaldelivery.app,available,56,76,16,,,
 1f9b7ff6-501b-4ed9-b40c-16936cb9cf4a,generaldelivery.at,available,56,76,16,,,
@@ -155,6 +145,16 @@ e68ceac8-a5cc-4066-b674-0e602b032ed8,generaldelivery.tech,available,56,76,16,,,
 372aa0f9-25cc-49ec-a4b6-ef39f5a8947f,generaldelivery.us,available,56,76,16,,,
 a1234519-8bc6-45a2-8686-466691cb9187,generaldelivery.xyz,available,56,76,16,,,
 833b4eb3-f6aa-4b92-ad8d-dfe5a49a7852,generaldelivery.zone,available,56,76,16,,,
+a5081cef-aeea-4943-9949-034c101cf163,soap.ai,resell,88,96,4,Lemonev,16/12/2017 04:40,24/04/2027 04:40
+de6a4095-99a6-457c-915e-5453042877db,soap.app,expiring,88,96,4,1API GmbH,23/07/2022 08:52,23/07/2025 08:52
+d1f46587-e9ec-410f-8e56-ac34210a40e4,soap.at,available,88,96,4,,,
+0f89998e-9f72-45d0-a1e8-60338b87b437,soap.cloud,available,88,96,4,,,
+4923adb8-75d3-4b89-88d1-379af59b271b,soap.expert,available,88,96,4,,,
+4abf529c-7ca8-409d-a384-420d64e35c67,soap.online,available,88,96,4,,,
+d1338114-6427-45eb-be51-9a244ba807b5,soap.pro,resell,88,96,4,Epik LLC,21/11/2015 01:29,21/11/2025 01:29
+c94c3add-9067-4705-8bba-858146fc8a9d,soap.site,available,88,96,4,,,
+00720d16-e1d8-40af-b3c2-8373e1617447,soap.space,available,88,96,4,,,
+e2590ce3-614b-406b-8341-ca5fd5159f7d,soap.store,available,88,96,4,,,
 d13c715a-88b7-4314-9d36-6f52f3cd76a4,condiments.ai,available,50,16,10,,,
 be64ee1a-02a9-4514-aa51-e05ad7fb437b,condiments.app,available,50,16,10,,,
 738e6c85-a54f-4917-b9b1-7a2878595d5f,condiments.at,available,50,16,10,,,
@@ -359,6 +359,7 @@ ca98bb32-9093-454e-bde2-930805011ca6,toothpaste.space,available,66,76,10,,,
 f0e620c4-12da-4a6c-a783-83c49fe48407,toothpaste.store,available,66,76,10,,,
 2d3b3012-1a13-4924-ae1a-880f0334eded,toothpaste.tech,available,66,76,10,,,
 ea9fe029-c31d-4443-b91f-cb740b5bcbd1,toothpaste.us,expired,66,76,10,"GoDaddy.com, LLC",07/07/2017 18:01,06/07/2025 23:59
+5f20adad-0dcc-43f7-9ff7-2438c5d07bdc,toothbrushes.zone,available,,28,12,,,
 d23e1a2f-29c7-489f-b5b5-da4c742bf16b,toothbrushes.app,available,,28,12,,,
 a80b98e2-69c9-477c-8be8-dd32202df628,toothbrushes.at,available,,28,12,,,
 dd0fe2d4-aeb3-40e1-9c18-8d607546d6db,toothbrushes.cloud,available,,28,12,,,
@@ -376,7 +377,6 @@ f3e141d9-7ced-41e1-b672-913a17c1ccbc,toothbrushes.so,available,,28,12,,,
 a7fdbdae-06aa-4212-8d8b-718432022a99,toothbrushes.store,available,,28,12,,,
 9ca05772-365b-4dad-b8cf-8aa981046096,toothbrushes.tech,available,,28,12,,,
 750ac98d-49ef-46fa-ba22-6a5b2629dd1f,toothbrushes.us,available,,28,12,,,
-5f20adad-0dcc-43f7-9ff7-2438c5d07bdc,toothbrushes.zone,available,,28,12,,,
 a62608cc-038f-4bc5-b8a3-5c41132db3bf,deodorant.at,sold,80,84,9,IONOS SE ( https://nic.at/registrar/22 ),,
 acfddbdd-6549-464b-ab75-3aed425c7e54,deodorant.cloud,available,80,84,9,,,
 baa86260-4687-4b1d-8e48-b5c7884d6706,deodorant.dev,available,80,84,9,,,
@@ -432,10 +432,6 @@ dbd0695e-134c-4a50-8a2c-29dadc4893cd,flashlights.it,resell,48,28,11,,02/11/2009 
 82b8f9b4-a74c-47fa-8551-bce0748a21f9,flashlights.store,available,48,28,11,,,
 ac11c8a0-9bf0-464c-8a00-b353db2514ce,flashlights.tech,available,48,28,11,,,
 5a7f6786-950b-4d53-a392-7d53b39fceb5,flashlights.zone,available,48,28,11,,,
-71959577-8a52-410b-81dc-8cf3a1e54b20,matches.at,available,64,40,7,,,
-f4a5a4d5-63f0-452c-867b-c82ea06edfcf,matches.cloud,available,64,40,7,,,
-e09644c8-e1b6-4747-bc0f-08961ad3904d,matches.dev,available,64,40,7,,,
-472af567-8e12-4512-be4c-87112f4a4b27,matches.expert,available,64,40,7,,,
 7bb36c4d-e90e-456d-9df5-a5b9b071c83f,matches.io,resell,64,40,7,"Sav.com, LLC",26/12/2019 14:30,26/12/2025 14:30
 f28c0fa8-bd7a-4ef8-a463-d8039246c0e8,matches.me,expiring,64,40,7,DNPric.es,10/07/2008 03:30,10/07/2025 03:30
 bd999b0a-1afc-4d5d-a4f6-e99881ce68d2,matches.ninja,available,64,40,7,,,
@@ -447,6 +443,10 @@ ba9e2827-ac25-47a1-9a5b-e45324a30b7e,matches.store,available,64,40,7,,,
 ab433dc3-f4eb-42cd-b801-7d6646696ab4,matches.tech,available,64,40,7,,,
 93e60b33-b122-441e-aa9d-4c281d8e5235,matches.us,resell,64,40,7,"Name.com, Inc.",24/04/2002 14:03,23/04/2026 23:59
 26fd7599-3c20-4a86-b46a-4df98f64f4f7,matches.zone,available,64,40,7,,,
+71959577-8a52-410b-81dc-8cf3a1e54b20,matches.at,available,64,40,7,,,
+f4a5a4d5-63f0-452c-867b-c82ea06edfcf,matches.cloud,available,64,40,7,,,
+e09644c8-e1b6-4747-bc0f-08961ad3904d,matches.dev,available,64,40,7,,,
+472af567-8e12-4512-be4c-87112f4a4b27,matches.expert,available,64,40,7,,,
 d868b95c-7548-4dec-83bb-e8fc354f8ecc,candles.app,available,52,36,7,,,
 6f3b2923-e6a3-4304-8f9b-402237e20546,candles.at,resell,52,36,7,Greenmark IT GmbH ( https://nic.at/registrar/618 ),,
 9843999a-fb52-4d76-a9f8-d1607c6aa2db,candles.cloud,available,52,36,7,,,
@@ -653,6 +653,16 @@ aa5bc5e0-d481-41e3-93b8-e07ce5ec6460,gloves.space,available,46,32,6,,,
 e95b1849-69c1-46e3-b3be-06e7624154a5,gloves.store,expiring,46,32,6,"Go Daddy, LLC",02/08/2022 05:28,02/08/2025 23:59
 b9e3c028-bf44-4204-acc2-884818686640,gloves.tech,available,46,32,6,,,
 57ad2ab1-0b30-4382-9755-4953edb2a05f,gloves.zone,available,46,32,6,,,
+8bd5944f-a11b-4893-b122-7e6ede7b25bb,workwear.at,available,56,80,8,,,
+9edcb7e9-69b4-4c1b-b078-ef38459357a7,workwear.cloud,available,56,80,8,,,
+f344f306-f261-4adc-be46-ef547586614b,workwear.gg,available,56,80,8,,,
+7e49dbe2-faa5-49ff-a0e6-c516d11b7a39,workwear.it,resell,56,80,8,,05/01/2011 12:31,05/01/2026 00:00
+81ec88d3-3e09-46c7-bec2-f11ebd10503b,workwear.me,resell,56,80,8,Dynadot Inc,19/03/2025 06:00,19/03/2026 06:00
+e035bd8e-98d4-4578-bc48-bb11a93531fa,workwear.site,available,56,80,8,,,
+aeced225-bccb-44ed-b5f9-6c96364fdb33,workwear.so,resell,56,80,8,Dynadot LLC,03/12/2024 21:52,03/12/2025 21:52
+12bcc842-70ac-4a10-a57f-8782304650a1,workwear.space,available,56,80,8,,,
+2b92ede9-4e28-4056-a218-2b09fbaf1cbf,workwear.store,available,56,80,8,,,
+afd60c41-0088-486b-ad7a-d324c030cc04,workwear.tech,available,56,80,8,,,
 2a85122d-11e3-45fd-87c5-3dc6036fedb2,support.academy,resell,112,38,7,Dynadot Inc,25/06/2025 17:00,25/06/2026 17:00
 5c805a59-560b-4039-a32d-070c3ff93075,support.actor,available,112,38,7,,,
 51f95619-1302-4547-8b78-f62860d6d5a9,support.adult,available,112,38,7,,,
@@ -953,16 +963,6 @@ f735d6ce-1fe5-4fc7-992b-52d41f82dd7b,support.watch,available,112,38,7,,,
 d01fca3d-a888-4bab-9ea4-ee1bdc66d772,support.xyz,resell,112,38,7,"Go Daddy, LLC",28/07/2021 23:20,28/07/2026 23:59
 9a84533a-a6b6-49ee-86fc-fc0d0bee6c87,support.yachts,available,112,38,7,,,
 3bdfaa1a-cd4a-42ad-916d-bda788ead3f3,support.yoga,available,112,38,7,,,
-f344f306-f261-4adc-be46-ef547586614b,workwear.gg,available,56,80,8,,,
-afd60c41-0088-486b-ad7a-d324c030cc04,workwear.tech,available,56,80,8,,,
-2b92ede9-4e28-4056-a218-2b09fbaf1cbf,workwear.store,available,56,80,8,,,
-12bcc842-70ac-4a10-a57f-8782304650a1,workwear.space,available,56,80,8,,,
-aeced225-bccb-44ed-b5f9-6c96364fdb33,workwear.so,resell,56,80,8,Dynadot LLC,03/12/2024 21:52,03/12/2025 21:52
-e035bd8e-98d4-4578-bc48-bb11a93531fa,workwear.site,available,56,80,8,,,
-81ec88d3-3e09-46c7-bec2-f11ebd10503b,workwear.me,resell,56,80,8,Dynadot Inc,19/03/2025 06:00,19/03/2026 06:00
-7e49dbe2-faa5-49ff-a0e6-c516d11b7a39,workwear.it,resell,56,80,8,,05/01/2011 12:31,05/01/2026 00:00
-8bd5944f-a11b-4893-b122-7e6ede7b25bb,workwear.at,available,56,80,8,,,
-9edcb7e9-69b4-4c1b-b078-ef38459357a7,workwear.cloud,available,56,80,8,,,
 c80e42c7-32b2-4037-a999-cc9aebebef6f,footwear.app,available,70,88,8,,,
 666f6312-e1b6-4e75-8558-ff967a97ea0a,footwear.at,sold,70,88,8,DomainQuadrat Marketing GmbH ( https://nic.at/registrar/581 ),,
 9585ffc1-152e-4935-af4e-d18f974c229b,footwear.cloud,available,70,88,8,,,
