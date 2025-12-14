@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [General one word domai
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status    | Attract. | Demand | Length | Registrar        | Created          | Expires          |
-| ------------------ | --------- | -------- | ------ | ------ | ---------------- | ---------------- | ---------------- |
-| services.theatre   | available | 72       | 24%    | 8      |                  |                  |                  |
-| services.tickets   | available | 72       | 24%    | 8      |                  |                  |                  |
-| services.tienda    | available | 72       | 24%    | 8      |                  |                  |                  |
-| services.tips      | premium   | 72       | 24%    | 8      |                  |                  |                  |
-| services.tires     | available | 72       | 24%    | 8      |                  |                  |                  |
-| services.tours     | available | 72       | 24%    | 8      |                  |                  |                  |
-| services.town      | available | 72       | 24%    | 8      |                  |                  |                  |
-| services.toys      | available | 72       | 24%    | 8      |                  |                  |                  |
-| services.trade     | premium   | 72       | 24%    | 8      |                  |                  |                  |
-| services.tube      | resell    | 72       | 24%    | 8      | GoDaddy.com, LLC | 10/04/2019 22:14 | 10/04/2026 22:14 |
-| services.tv        | premium   | 72       | 24%    | 8      |                  |                  |                  |
-| services.uno       | premium   | 72       | 24%    | 8      |                  |                  |                  |
-| services.vacations | premium   | 72       | 24%    | 8      |                  |                  |                  |
-| services.vana      | available | 72       | 24%    | 8      |                  |                  |                  |
-| services.vc        | resell    | 72       | 24%    | 8      | Dynadot Inc      | 17/08/2020 00:07 | 17/08/2026 00:07 |
-| services.vegas     | expiring  | 72       | 24%    | 8      | GoDaddy.com, LLC | 27/12/2021 21:29 | 27/12/2025 21:29 |
-| services.ventures  | available | 72       | 24%    | 8      |                  |                  |                  |
-| services.vet       | premium   | 72       | 24%    | 8      |                  |                  |                  |
-| services.viajes    | available | 72       | 24%    | 8      |                  |                  |                  |
-| services.video     | premium   | 72       | 24%    | 8      |                  |                  |                  |
-| services.villas    | premium   | 72       | 24%    | 8      |                  |                  |                  |
-| services.vin       | expiring  | 72       | 24%    | 8      | Dynadot Inc      | 06/01/2023 21:10 | 06/01/2026 21:10 |
-| services.vip       | premium   | 72       | 24%    | 8      |                  |                  |                  |
-| services.vodka     | available | 72       | 24%    | 8      |                  |                  |                  |
-| services.vote      | available | 72       | 24%    | 8      |                  |                  |                  |
-| services.voting    | available | 72       | 24%    | 8      |                  |                  |                  |
-| services.voto      | available | 72       | 24%    | 8      |                  |                  |                  |
-| services.voyage    | premium   | 72       | 24%    | 8      |                  |                  |                  |
-| services.watch     | premium   | 72       | 24%    | 8      |                  |                  |                  |
-| services.webcam    | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| Domain              | Status    | Attract. | Demand | Length | Registrar        | Created          | Expires          |
+| ------------------- | --------- | -------- | ------ | ------ | ---------------- | ---------------- | ---------------- |
+| services.racing     | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.realty     | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.recipes    | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.rehab      | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.reise      | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.reisen     | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.rent       | resell    | 72       | 24%    | 8      | Namecheap        | 24/03/2025 18:40 | 24/03/2026 23:59 |
+| services.rentals    | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.report     | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.republican | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.rest       | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.restaurant | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.review     | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.reviews    | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.rich       | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.rip        | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.rodeo      | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.rsvp       | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.run        | resell    | 72       | 24%    | 8      | DNSPod, Inc.     | 06/11/2019 09:12 | 06/11/2026 09:12 |
+| services.sale       | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.salon      | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.sarl       | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.sbs        | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.school     | expiring  | 72       | 24%    | 8      | GoDaddy.com, LLC | 04/01/2021 18:31 | 04/01/2026 18:31 |
+| services.science    | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.security   | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.sexy       | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.shiksha    | available | 72       | 24%    | 8      |                  |                  |                  |
+| services.shoes      | premium   | 72       | 24%    | 8      |                  |                  |                  |
+| services.shopping   | premium   | 72       | 24%    | 8      |                  |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/General-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,6 +90,7 @@ If you want to search & filters the complete database of [General one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,537       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 61,582       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,156,621    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
