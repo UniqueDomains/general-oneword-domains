@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [General one word domai
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain               | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| -------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| services.monster     | premium   | 72       | 24%    | 8      |           |         |         |
-| services.mortgage    | premium   | 72       | 24%    | 8      |           |         |         |
-| services.motorcycles | premium   | 72       | 24%    | 8      |           |         |         |
-| services.mov         | premium   | 72       | 24%    | 8      |           |         |         |
-| services.movie       | available | 72       | 24%    | 8      |           |         |         |
-| services.music       | premium   | 72       | 24%    | 8      |           |         |         |
-| services.mx          | available | 72       | 24%    | 8      |           |         |         |
-| services.network     | premium   | 72       | 24%    | 8      |           |         |         |
-| services.news        | premium   | 72       | 24%    | 8      |           |         |         |
-| services.ngo         | premium   | 72       | 24%    | 8      |           |         |         |
-| services.now         | premium   | 72       | 24%    | 8      |           |         |         |
-| services.nyc         | premium   | 72       | 24%    | 8      |           |         |         |
-| services.observer    | premium   | 72       | 24%    | 8      |           |         |         |
-| services.one         | premium   | 72       | 24%    | 8      |           |         |         |
-| services.ong         | premium   | 72       | 24%    | 8      |           |         |         |
-| services.onl         | premium   | 72       | 24%    | 8      |           |         |         |
-| services.online      | premium   | 72       | 24%    | 8      |           |         |         |
-| services.organic     | available | 72       | 24%    | 8      |           |         |         |
-| services.osaka       | premium   | 72       | 24%    | 8      |           |         |         |
-| services.page        | premium   | 72       | 24%    | 8      |           |         |         |
-| services.partners    | premium   | 72       | 24%    | 8      |           |         |         |
-| services.parts       | premium   | 72       | 24%    | 8      |           |         |         |
-| services.party       | premium   | 72       | 24%    | 8      |           |         |         |
-| services.pet         | premium   | 72       | 24%    | 8      |           |         |         |
-| services.phd         | premium   | 72       | 24%    | 8      |           |         |         |
-| services.photo       | premium   | 72       | 24%    | 8      |           |         |         |
-| services.photos      | available | 72       | 24%    | 8      |           |         |         |
-| services.pictures    | available | 72       | 24%    | 8      |           |         |         |
-| services.pizza       | premium   | 72       | 24%    | 8      |           |         |         |
-| services.place       | premium   | 72       | 24%    | 8      |           |         |         |
+| Domain              | Status    | Attract. | Demand | Length | Registrar                 | Created          | Expires          |
+| ------------------- | --------- | -------- | ------ | ------ | ------------------------- | ---------------- | ---------------- |
+| services.gives      | available | 72       | 24%    | 8      |                           |                  |                  |
+| services.giving     | available | 72       | 24%    | 8      |                           |                  |                  |
+| services.glass      | available | 72       | 24%    | 8      |                           |                  |                  |
+| services.global     | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.gold       | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.graphics   | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.gratis     | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.gripe      | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.guitars    | available | 72       | 24%    | 8      |                           |                  |                  |
+| services.guru       | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.hair       | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.haus       | expired   | 72       | 24%    | 8      | NameSilo, LLC             | 14/11/2024 19:57 | 14/11/2025 19:57 |
+| services.health     | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.hiphop     | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.hiv        | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.hockey     | available | 72       | 24%    | 8      |                           |                  |                  |
+| services.holdings   | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.holiday    | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.homes      | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.horse      | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.hospital   | available | 72       | 24%    | 8      |                           |                  |                  |
+| services.host       | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.hosting    | available | 72       | 24%    | 8      |                           |                  |                  |
+| services.hot        | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.house      | resell    | 72       | 24%    | 8      | Virtualia LLC             | 17/05/2024 15:15 | 17/05/2026 15:15 |
+| services.icu        | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.id         | resell    | 72       | 24%    | 8      | PT Registrasi Nama Domain | 16/05/2018 04:57 | 16/05/2026 23:59 |
+| services.im         | premium   | 72       | 24%    | 8      |                           |                  |                  |
+| services.immobilien | available | 72       | 24%    | 8      |                           |                  |                  |
+| services.industries | premium   | 72       | 24%    | 8      |                           |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/General-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [General one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,281       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 62,232       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,157,142    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,157,759    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
