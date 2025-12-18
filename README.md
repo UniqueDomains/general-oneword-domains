@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [General one word domai
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain              | Status    | Attract. | Demand | Length | Registrar    | Created          | Expires          |
-| ------------------- | --------- | -------- | ------ | ------ | ------------ | ---------------- | ---------------- |
-| services.fans       | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.fashion    | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.fast       | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.film       | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.finance    | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.financial  | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.fish       | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.fishing    | available | 72       | 23%    | 8      |              |                  |                  |
-| services.fit        | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.fitness    | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.flights    | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.florist    | available | 72       | 23%    | 8      |              |                  |                  |
-| services.flowers    | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.foo        | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.food       | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.football   | available | 72       | 23%    | 8      |              |                  |                  |
-| services.forum      | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.foundation | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.free       | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.fun        | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.fund       | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.furniture  | available | 72       | 23%    | 8      |              |                  |                  |
-| services.futbol     | available | 72       | 23%    | 8      |              |                  |                  |
-| services.fyi        | expiring  | 72       | 23%    | 8      | Porkbun LLC  | 21/12/2024 18:47 | 21/12/2025 18:47 |
-| services.game       | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.games      | resell    | 72       | 23%    | 8      | DNSPod, Inc. | 07/10/2023 15:15 | 07/10/2026 15:15 |
-| services.garden     | premium   | 72       | 23%    | 8      |              |                  |                  |
-| services.gay        | available | 72       | 23%    | 8      |              |                  |                  |
-| services.gift       | available | 72       | 23%    | 8      |              |                  |                  |
-| services.gifts      | premium   | 72       | 23%    | 8      |              |                  |                  |
+| Domain               | Status    | Attract. | Demand | Length | Registrar         | Created          | Expires          |
+| -------------------- | --------- | -------- | ------ | ------ | ----------------- | ---------------- | ---------------- |
+| services.academy     | resell    | 72       | 23%    | 8      | Dynadot Inc       | 06/07/2025 17:00 | 06/07/2026 17:00 |
+| services.accountant  | premium   | 72       | 23%    | 8      |                   |                  |                  |
+| services.accountants | premium   | 72       | 23%    | 8      |                   |                  |                  |
+| services.actor       | available | 72       | 23%    | 8      |                   |                  |                  |
+| services.adult       | premium   | 72       | 23%    | 8      |                   |                  |                  |
+| services.ag          | available | 72       | 23%    | 8      |                   |                  |                  |
+| services.airforce    | available | 72       | 23%    | 8      |                   |                  |                  |
+| services.apartments  | available | 72       | 23%    | 8      |                   |                  |                  |
+| services.army        | available | 72       | 23%    | 8      |                   |                  |                  |
+| services.asia        | resell    | 72       | 23%    | 8      | GoDaddy.com, LLC  | 04/07/2008 07:05 | 04/07/2026 07:05 |
+| services.associates  | premium   | 72       | 23%    | 8      |                   |                  |                  |
+| services.at          | premium   | 72       | 23%    | 8      |                   |                  |                  |
+| services.attorney    | premium   | 72       | 23%    | 8      |                   |                  |                  |
+| services.auction     | premium   | 72       | 23%    | 8      |                   |                  |                  |
+| services.audio       | premium   | 72       | 23%    | 8      |                   |                  |                  |
+| services.auto        | available | 72       | 23%    | 8      |                   |                  |                  |
+| services.autos       | premium   | 72       | 23%    | 8      |                   |                  |                  |
+| services.baby        | premium   | 72       | 23%    | 8      |                   |                  |                  |
+| services.band        | available | 72       | 23%    | 8      |                   |                  |                  |
+| services.bar         | premium   | 72       | 23%    | 8      |                   |                  |                  |
+| services.bargains    | premium   | 72       | 23%    | 8      |                   |                  |                  |
+| services.bayern      | available | 72       | 23%    | 8      |                   |                  |                  |
+| services.beauty      | premium   | 72       | 23%    | 8      |                   |                  |                  |
+| services.beer        | available | 72       | 23%    | 8      |                   |                  |                  |
+| services.berlin      | premium   | 72       | 23%    | 8      |                   |                  |                  |
+| services.best        | resell    | 72       | 23%    | 8      | Sav.com, LLC      | 21/09/2025 13:30 | 21/09/2026 23:59 |
+| services.bid         | premium   | 72       | 23%    | 8      |                   |                  |                  |
+| services.bike        | available | 72       | 23%    | 8      |                   |                  |                  |
+| services.bingo       | available | 72       | 23%    | 8      |                   |                  |                  |
+| services.bio         | resell    | 72       | 23%    | 8      | Sav.com, LLC - 42 | 20/09/2025 15:15 | 20/09/2026 15:15 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/General-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
