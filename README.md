@@ -1,10 +1,10 @@
-# Available One-Word Domains Across 505 TLDs (7,131,306)
+# Available One-Word Domains Across 505 TLDs (7,132,085)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C131%2C306%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C132%2C085%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 These domains are available one-word registrations spread across 505 TLDs, from city and geo strings to niche extensions such as .hamburg, .ryukyu, .adult, .eco, and .family. Updated daily. This selection contains 7,129,393 domains, with a median ask of $332.55.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **7,131,306 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **7,132,085 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 7,131,306 domains · **Median ask:** $337.90 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 7,132,085 domains · **Median ask:** $337.98 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-08  
+**Last updated:** 2026-05-09  
 **Canonical page:** `https://unique.domains/domains/sector/General`  
 **Best for:** founders, investors, studios
 
@@ -74,16 +74,16 @@ print(df.head())
 | getup.online       | resell    | —         | —             | 82             | 14     | 6      | Xin Net Technology Corporation     |
 | quote.shop         | premium   | $1,250    | —             | 82             | 30     | 5      | name.com                           |
 | quotes.recipes     | available | $11.99    | —             | 58             | 29     | 6      | name.com                           |
-| promotions.la      | resell    | —         | —             | 64             | 14     | 10     | LA Domain Names                    |
+| borrow.xyz         | resell    | —         | —             | 66             | 14     | 6      | Dynadot LLC                        |
 | photos.tools       | premium   | $82.50    | —             | 54             | 28     | 6      | name.com                           |
 | systems.cam        | available | $22.98    | —             | 46             | 27     | 7      | namecheap                          |
-| BRAS.top           | resell    | —         | —             | 70             | 13     | 4      | Spaceship, Inc.                    |
+| promotions.la      | resell    | —         | —             | 64             | 14     | 10     | LA Domain Names                    |
 | pages.dad          | premium   | $623.75   | —             | 52             | 28     | 5      | name.com                           |
 | tips.sydney        | available | $54.98    | —             | 80             | 26     | 4      | namecheap                          |
-| breastcancer.co    | resell    | —         | —             | 58             | 9      | 13     | GrepApps Technology Inc.           |
+| BRAS.top           | resell    | —         | —             | 70             | 13     | 4      | Spaceship, Inc.                    |
 | stupid.shop        | premium   | $312.50   | —             | 70             | 27     | 6      | name.com                           |
 | trades.vana        | available | $2,498    | —             | 71             | 26     | 6      | namecheap                          |
-| grouptherapy.la    | resell    | —         | —             | 72             | 4      | 13     | LA Domain Names                    |
+| brighten.xyz       | resell    | —         | —             | 80             | 10     | 8      | West263 International Limited      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 7,131,306 live domains                     |
+| 1,000-row public sample | 7,132,085 live domains                     |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Domains Across 505 TLDs*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Domains Across 505 TLDs*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
