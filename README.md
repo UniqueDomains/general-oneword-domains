@@ -1,10 +1,10 @@
-# Available One-Word Domains Across 505 TLDs (7,133,034)
+# Available One-Word Domains Across 505 TLDs (7,133,288)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C133%2C034%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C133%2C288%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 These domains are available one-word registrations spread across 505 TLDs, from city and geo strings to niche extensions such as .hamburg, .ryukyu, .adult, .eco, and .family. Updated daily. This selection contains 7,129,393 domains, with a median ask of $332.55.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **7,133,034 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **7,133,288 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 7,133,034 domains · **Median ask:** $339.29 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 7,133,288 domains · **Median ask:** $339.32 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-12  
 **Canonical page:** `https://unique.domains/domains/sector/General`  
 **Best for:** founders, investors, studios
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 7,133,034 live domains                     |
+| 1,000-row public sample | 7,133,288 live domains                     |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Domains Across 505 TLDs*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Domains Across 505 TLDs*. Version 2026-05-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
