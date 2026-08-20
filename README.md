@@ -16,7 +16,7 @@ This selection includes 121,714 one-word domain names spanning 506 TLDs, from .t
 
 **Public extract:** 1,000 rows · **Live catalog:** 140,062 domains · **Median ask:** $597.73 · **High-demand under $2,500:** 343
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/general`
 **Best for:** founders, investors, studios
 
@@ -66,22 +66,22 @@ print(df.head())
 | ------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
 | kind.ryukyu   | available | $22.98     | —             | high           | low    | 4      | namecheap                                           |
 | key.loans     | resell    | —          | —             | high           | medium | 3      | GoDaddy.com, LLC                                    |
-| roomy.shop    | premium   | $2,500     | —             | high           | low    | 5      | name.com                                            |
+| scale.shop    | premium   | $625       | —             | high           | medium | 5      | name.com                                            |
 | type.ryukyu   | available | $22.98     | —             | high           | low    | 4      | namecheap                                           |
 | core.group    | resell    | —          | —             | medium         | medium | 4      | Porkbun LLC                                         |
-| scale.shop    | premium   | $625       | —             | high           | medium | 5      | name.com                                            |
+| world.stream  | premium   | $35,520.79 | —             | high           | medium | 5      | NameSilo, LLC                                       |
 | chief.ryukyu  | available | $22.98     | —             | high           | low    | 5      | namecheap                                           |
 | free.wtf      | resell    | —          | —             | high           | medium | 4      | Dynadot Inc                                         |
-| world.stream  | premium   | $35,520.79 | —             | high           | medium | 5      | NameSilo, LLC                                       |
+| common.la     | premium   | $1,954.42  | —             | high           | low    | 6      | name.com                                            |
 | model.ryukyu  | available | $22.98     | —             | high           | low    | 5      | namecheap                                           |
 | kind.io       | resell    | —          | —             | high           | low    | 4      | GoDaddy.com, LLC                                    |
-| common.la     | premium   | $1,954.42  | —             | high           | low    | 6      | name.com                                            |
+| entire.cyou   | premium   | $384       | $768          | medium         | low    | 6      | namesilo                                            |
 | usual.ryukyu  | available | $22.98     | —             | high           | low    | 5      | namecheap                                           |
 | open.services | resell    | —          | —             | high           | medium | 4      | Porkbun LLC                                         |
-| entire.cyou   | premium   | $384       | $768          | medium         | low    | 6      | namesilo                                            |
+| entire.date   | premium   | $375       | $62.50        | medium         | low    | 6      | name.com                                            |
 | common.ryukyu | available | $22.98     | —             | high           | low    | 6      | namecheap                                           |
 | open.vip      | resell    | —          | —             | high           | medium | 4      | Gname.com Pte. Ltd.                                 |
-| entire.phd    | premium   | $198.75    | $198.75       | medium         | low    | 6      | name.com                                            |
+| entire.faith  | premium   | $625       | $81.25        | medium         | low    | 6      | name.com                                            |
 | entire.band   | available | $17.48     | $39.98        | medium         | low    | 6      | namecheap                                           |
 | open.zone     | resell    | —          | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *General One-Word Domain Names Across 506 TLDs*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *General One-Word Domain Names Across 506 TLDs*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
