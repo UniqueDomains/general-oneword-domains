@@ -1,10 +1,10 @@
-# General One-Word Domain Names Across 506 TLDs (147,328)
+# General One-Word Domain Names Across 506 TLDs (147,769)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-147%2C328%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-147%2C769%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 121,714 one-word domain names spanning 506 TLDs, from .tax and .security to .shoes and .army. The median ask across this list is $695, reflecting a broad general-purpose mix rather than a single niche. Updated daily to reflect current pricing and availability.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **147,328 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **147,769 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 147,328 domains · **Median ask:** $571.70 · **High-demand under $2,500:** 343
+**Public extract:** 1,000 rows · **Live catalog:** 147,769 domains · **Median ask:** $570.14 · **High-demand under $2,500:** 343
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-24
 **Canonical page:** `https://unique.domains/domains/sector/general`
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | all.holdings       | premium   | $123.75   | $123.75       | high           | medium | 3      | name.com                                                  |
 | main.holdings      | available | $64.99    | $64.99        | high           | low    | 4      | namesilo                                                  |
 | main.center        | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| all.market         | premium   | $500      | $500          | high           | medium | 3      | name.com                                                  |
+| all.how            | premium   | $686.25   | $686.25       | high           | medium | 3      | name.com                                                  |
 | main.international | available | $14.99    | —             | high           | low    | 4      | name.com                                                  |
 | main.trade         | resell    | —         | —             | high           | low    | 4      | Porkbun                                                   |
-| all.markets        | premium   | $500      | $500          | high           | medium | 3      | name.com                                                  |
+| all.industries     | premium   | $250      | $250          | high           | medium | 3      | name.com                                                  |
 | main.lgbt          | available | $19.99    | —             | high           | low    | 4      | name.com                                                  |
-| open.agency        | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
-| non.space          | premium   | $87.50    | $350          | high           | low    | 3      | namecheap                                                 |
+| open.academy       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
+| all.market         | premium   | $500      | $500          | high           | medium | 3      | name.com                                                  |
 | main.limited       | available | $14.99    | —             | high           | low    | 4      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 147,328 live domains                       |
+| 1,000-row public sample | 147,769 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 343 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *General One-Word Domain Names Across 506 TLDs*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *General One-Word Domain Names Across 506 TLDs*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
