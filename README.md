@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                           |
-| -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| kind.ryukyu    | available | $22.98     | —             | high           | low    | 4      | namecheap                                           |
-| core.group     | resell    | —          | —             | medium         | medium | 4      | Porkbun LLC                                         |
-| scale.shop     | premium   | $625       | —             | high           | medium | 5      | name.com                                            |
-| chief.press    | available | $4.99      | $86.99        | high           | low    | 5      | namesilo                                            |
-| free.wtf       | resell    | —          | —             | high           | medium | 4      | Dynadot Inc                                         |
-| world.stream   | premium   | $35,520.79 | —             | high           | medium | 5      | NameSilo, LLC                                       |
-| chief.ryukyu   | available | $22.98     | —             | high           | low    | 5      | namecheap                                           |
-| kind.io        | resell    | —          | —             | high           | low    | 4      | GoDaddy.com, LLC                                    |
-| common.la      | premium   | $1,954.42  | —             | high           | low    | 6      | name.com                                            |
-| model.ryukyu   | available | $22.98     | —             | high           | low    | 5      | namecheap                                           |
-| open.services  | resell    | —          | —             | high           | medium | 4      | Porkbun LLC                                         |
-| global.space   | premium   | $3,500     | $14,000       | high           | medium | 6      | namecheap                                           |
-| usual.ryukyu   | available | $22.98     | —             | high           | low    | 5      | namecheap                                           |
-| open.zone      | resell    | —          | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| varied.shop    | premium   | $625       | —             | medium         | low    | 6      | name.com                                            |
-| common.ryukyu  | available | $22.98     | —             | high           | low    | 6      | namecheap                                           |
-| wide.in        | resell    | —          | —             | medium         | low    | 4      | Dynadot, LLC                                        |
-| blended.study  | premium   | $53.92     | $53.92        | low            | low    | 7      | namesilo                                            |
-| entire.rentals | available | $6.98      | $56.98        | medium         | low    | 6      | namecheap                                           |
-| group.co       | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC                                    |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| primary.equipment | available | $19.99    | —             | high           | low    | 7      | name.com                                                  |
+| all.ltda          | available | $34.99    | $34.99        | high           | medium | 3      | namesilo                                                  |
+| overall.com       | resell    | $109,020  | $17.99        | high           | low    | 7      | GoDaddy.com, LLC                                          |
+| all.center        | premium   | $82.50    | $82.50        | high           | medium | 3      | name.com                                                  |
+| all.voting        | available | $1,448    | —             | high           | medium | 3      | namecheap                                                 |
+| primary.me        | resell    | $4,701.28 | —             | high           | low    | 7      | GoDaddy.com, LLC                                          |
+| all.courses       | premium   | $625      | $625          | high           | medium | 3      | name.com                                                  |
+| main.army         | available | $19.99    | —             | high           | low    | 4      | name.com                                                  |
+| all.so            | resell    | —         | —             | high           | medium | 3      | Dynadot LLC                                               |
+| all.enterprises   | premium   | $250      | $250          | high           | medium | 3      | name.com                                                  |
+| main.enterprises  | available | $5.99     | —             | high           | low    | 4      | name.com                                                  |
+| main.asia         | resell    | —         | —             | high           | low    | 4      | UM DOMAINS PTE. LTD                                       |
+| all.guide         | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap                                                 |
+| main.equipment    | available | $19.99    | —             | high           | low    | 4      | name.com                                                  |
+| main.center       | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| all.holdings      | premium   | $123.75   | $123.75       | high           | medium | 3      | name.com                                                  |
+| main.gmbh         | available | $45.99    | $45.99        | high           | low    | 4      | namesilo                                                  |
+| main.expert       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| all.how           | premium   | $686.25   | $686.25       | high           | medium | 3      | name.com                                                  |
+| main.hiv          | available | $184.99   | —             | high           | low    | 4      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
