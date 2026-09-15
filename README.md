@@ -1,10 +1,10 @@
-# General One-Word Domain Names Across 506 TLDs (165,111)
+# General One-Word Domain Names Across 506 TLDs (168,519)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-165%2C111%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-168%2C519%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 121,714 one-word domain names spanning 506 TLDs, from .tax and .security to .shoes and .army. The median ask across this list is $695, reflecting a broad general-purpose mix rather than a single niche. Updated daily to reflect current pricing and availability.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **165,111 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **168,519 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 165,111 domains · **Median ask:** $520.82 · **High-demand under $2,500:** 329
+**Public extract:** 1,000 rows · **Live catalog:** 168,519 domains · **Median ask:** $511.58 · **High-demand under $2,500:** 329
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 **Canonical page:** `https://unique.domains/domains/sector/general`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| type.ryukyu     | available | $22.98    | —             | high           | low    | 4      | namecheap                                                 |
-| open.services   | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
-| common.la       | premium   | $1,954.42 | —             | high           | low    | 6      | name.com                                                  |
-| chief.ryukyu    | available | $22.98    | —             | high           | low    | 5      | namecheap                                                 |
-| open.vip        | resell    | —         | —             | high           | medium | 4      | Gname.com Pte. Ltd.                                       |
-| diverse.bar     | premium   | $393.75   | $562.50       | medium         | low    | 7      | name.com                                                  |
-| model.ryukyu    | available | $22.98    | —             | high           | low    | 5      | namecheap                                                 |
-| wide.in         | resell    | —         | —             | medium         | low    | 4      | Dynadot, LLC                                              |
-| diverse.biz     | premium   | $218.75   | $22.50        | medium         | low    | 7      | name.com                                                  |
-| usual.ryukyu    | available | $22.98    | —             | high           | low    | 5      | namecheap                                                 |
-| handy.zone      | resell    | —         | —             | medium         | low    | 5      | DNSPod, Inc.                                              |
-| diverse.blog    | premium   | $160      | $640          | medium         | low    | 7      | namesilo                                                  |
-| common.ryukyu   | available | $22.98    | —             | high           | low    | 6      | namecheap                                                 |
-| model.codes     | resell    | —         | —             | medium         | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| diverse.bond    | premium   | $68.43    | $147.20       | medium         | low    | 7      | namesilo                                                  |
-| entire.band     | available | $17.48    | $39.98        | medium         | low    | 6      | namecheap                                                 |
-| trade.gifts     | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC                                          |
-| diverse.build   | premium   | $1,875    | $1,875        | medium         | low    | 7      | name.com                                                  |
-| entire.exchange | available | $5.98     | $49.98        | medium         | low    | 6      | namecheap                                                 |
-| global.graphics | resell    | —         | —             | high           | medium | 6      | Porkbun LLC                                               |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| primary.equipment | available | $19.99    | —             | high           | low    | 7      | name.com                                                  |
+| all.ltda          | available | $34.99    | $34.99        | high           | medium | 3      | namesilo                                                  |
+| overall.com       | resell    | $109,020  | $17.99        | high           | low    | 7      | GoDaddy.com, LLC                                          |
+| all.center        | premium   | $82.50    | $82.50        | high           | medium | 3      | name.com                                                  |
+| all.voting        | available | $1,448    | —             | high           | medium | 3      | namecheap                                                 |
+| primary.me        | resell    | $4,701.28 | —             | high           | low    | 7      | GoDaddy.com, LLC                                          |
+| all.courses       | premium   | $625      | $625          | high           | medium | 3      | name.com                                                  |
+| main.army         | available | $19.99    | —             | high           | low    | 4      | name.com                                                  |
+| all.so            | resell    | —         | —             | high           | medium | 3      | Dynadot LLC                                               |
+| all.enterprises   | premium   | $250      | $250          | high           | medium | 3      | name.com                                                  |
+| main.enterprises  | available | $5.99     | —             | high           | low    | 4      | name.com                                                  |
+| main.asia         | resell    | —         | —             | high           | low    | 4      | UM DOMAINS PTE. LTD                                       |
+| all.guide         | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap                                                 |
+| main.equipment    | available | $19.99    | —             | high           | low    | 4      | name.com                                                  |
+| main.center       | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| all.holdings      | premium   | $123.75   | $123.75       | high           | medium | 3      | name.com                                                  |
+| main.gmbh         | available | $45.99    | $45.99        | high           | low    | 4      | namesilo                                                  |
+| main.expert       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| all.how           | premium   | $686.25   | $686.25       | high           | medium | 3      | name.com                                                  |
+| main.hiv          | available | $184.99   | —             | high           | low    | 4      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 165,111 live domains                       |
+| 1,000-row public sample | 168,519 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 329 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *General One-Word Domain Names Across 506 TLDs*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *General One-Word Domain Names Across 506 TLDs*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
