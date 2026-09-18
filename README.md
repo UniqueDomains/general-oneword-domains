@@ -1,10 +1,10 @@
-# General One-Word Domain Names Across 506 TLDs (114,612)
+# General One-Word Domain Names Across 506 TLDs (116,698)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-114%2C612%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-116%2C698%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 121,714 one-word domain names spanning 506 TLDs, from .tax and .security to .shoes and .army. The median ask across this list is $695, reflecting a broad general-purpose mix rather than a single niche. Updated daily to reflect current pricing and availability.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **114,612 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **116,698 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 114,612 domains · **Median ask:** $366.20 · **High-demand under $2,500:** 240
+**Public extract:** 1,000 rows · **Live catalog:** 116,698 domains · **Median ask:** $361.14 · **High-demand under $2,500:** 232
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/sector/general`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| universal.luxury    | available | $49.99    | —             | high           | high   | 9      | name.com         |
-| total.ryukyu        | available | $22.98    | —             | high           | low    | 5      | namecheap        |
-| kind.io             | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| broad.cfd           | premium   | $46.61    | $94.80        | medium         | low    | 5      | namesilo         |
-| usual.ryukyu        | available | $22.98    | —             | high           | low    | 5      | namecheap        |
-| wide.in             | resell    | —         | —             | medium         | low    | 4      | Dynadot, LLC     |
-| common.la           | premium   | $1,954.42 | —             | high           | low    | 6      | name.com         |
-| common.lat          | available | $1.99     | $32.49        | high           | low    | 6      | namesilo         |
-| group.co            | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| shared.shop         | premium   | $625      | —             | high           | low    | 6      | name.com         |
-| common.ryukyu       | available | $22.98    | —             | high           | low    | 6      | namecheap        |
-| trade.solutions     | resell    | —         | —             | high           | medium | 5      | Porkbun LLC      |
-| diverse.design      | premium   | $162.50   | $325          | medium         | low    | 7      | namecheap        |
-| diverse.accountants | available | $43.99    | $153.99       | medium         | low    | 7      | name.com         |
-| world.farm          | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
-| diverse.hot         | premium   | $116      | $116          | medium         | low    | 7      | namesilo         |
-| diverse.investments | available | $6.98     | $166.98       | medium         | low    | 7      | namecheap        |
-| domain.live         | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
-| diverse.observer    | premium   | $29.50    | $29.50        | medium         | low    | 7      | namesilo         |
-| diverse.sex         | available | $69.98    | $154.98       | medium         | low    | 7      | namecheap        |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| universal.luxury   | available | $49.99    | —             | high           | high   | 9      | name.com                      |
+| wide.international | available | $14.99    | $41.99        | high           | low    | 4      | name.com                      |
+| overall.com        | resell    | $109,020  | $17.99        | high           | low    | 7      | GoDaddy.com, LLC              |
+| all.center         | premium   | $82.50    | $82.50        | high           | medium | 3      | name.com                      |
+| wide.tools         | available | $17.99    | $52.99        | high           | low    | 4      | name.com                      |
+| wide.xyz           | resell    | —         | —             | high           | low    | 4      | Go Daddy, LLC                 |
+| all.courses        | premium   | $625      | $625          | high           | medium | 3      | name.com                      |
+| broad.courses      | available | $1.98     | $50.98        | medium         | low    | 5      | namecheap                     |
+| broad.now          | resell    | —         | —             | high           | low    | 5      | Porkbun LLC                   |
+| all.guide          | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap                     |
+| broad.garden       | available | $39.98    | —             | high           | low    | 5      | namecheap                     |
+| broad.so           | resell    | —         | —             | high           | low    | 5      | Dynadot LLC                   |
+| all.how            | premium   | $686.25   | $686.25       | high           | medium | 3      | name.com                      |
+| broad.gg           | available | $82.98    | —             | high           | low    | 5      | namecheap                     |
+| broad.world        | resell    | —         | —             | medium         | low    | 5      | DNSPod, Inc.                  |
+| broad.club         | premium   | $32.50    | $16.90        | high           | low    | 5      | namecheap                     |
+| broad.global       | available | $59.99    | $121.99       | high           | low    | 5      | name.com                      |
+| common.app         | resell    | —         | —             | high           | high   | 6      | West263 International Limited |
+| broad.co           | premium   | $3,250    | $3,250        | medium         | low    | 5      | namecheap                     |
+| broad.id           | available | $14.19    | $20.75        | medium         | low    | 5      | namesilo                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 114,612 live domains                       |
+| 1,000-row public sample | 116,698 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 240 high-demand names under $2,500         |
+| Basic exported fields   | 232 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *General One-Word Domain Names Across 506 TLDs*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *General One-Word Domain Names Across 506 TLDs*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
