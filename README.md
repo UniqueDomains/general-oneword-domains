@@ -1,10 +1,10 @@
-# General One-Word Domain Names Across 506 TLDs (86,001)
+# General One-Word Domain Names Across 506 TLDs (79,046)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-86%2C001%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-79%2C046%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 121,714 one-word domain names spanning 506 TLDs, from .tax and .security to .shoes and .army. The median ask across this list is $695, reflecting a broad general-purpose mix rather than a single niche. Updated daily to reflect current pricing and availability.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **86,001 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **79,046 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 86,001 domains · **Median ask:** $309.50 · **High-demand under $2,500:** 154
+**Public extract:** 1,000 rows · **Live catalog:** 79,046 domains · **Median ask:** $298.28 · **High-demand under $2,500:** 117
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/general`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| familiar.sale       | available | $5.99     | —             | high           | low    | 8      | name.com                                    |
-| typical.us          | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                 |
-| hub.eco             | premium   | $1,875    | —             | high           | medium | 3      | name.com                                    |
-| normal.boats        | available | $1.99     | —             | high           | high   | 6      | name.com                                    |
-| familiar.miami      | premium   | $47.20    | $21.24        | high           | low    | 8      | namesilo                                    |
-| essence.engineering | available | $11.99    | —             | high           | low    | 7      | name.com                                    |
-| ordinary.ngo        | available | $16.99    | —             | high           | low    | 8      | name.com                                    |
-| axe.engineer        | available | $13.99    | —             | high           | low    | 3      | name.com                                    |
-| sports.theater      | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                 |
-| add.press           | premium   | $625      | —             | high           | low    | 3      | name.com                                    |
-| bay.tires           | available | $5.99     | $78.99        | medium         | low    | 3      | namesilo                                    |
-| mom.club            | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
-| aid.phd             | premium   | $411.25   | —             | high           | low    | 3      | name.com                                    |
-| beg.shiksha         | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
-| mum.net             | resell    | —         | —             | high           | low    | 3      | GoDaddy Online Services Cayman Islands Ltd. |
-| atp.you             | premium   | $625      | —             | high           | low    | 3      | name.com                                    |
-| beg.tips            | available | $14.99    | —             | high           | low    | 3      | name.com                                    |
-| net.garden          | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                 |
-| btw.day             | premium   | $73.75    | —             | high           | low    | 3      | name.com                                    |
-| clv.archi           | available | $14.98    | $132.98       | high           | low    | 3      | namecheap                                   |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| hub.eco           | premium   | $1,875    | —             | high           | medium | 3      | name.com                                    |
+| normal.boats      | available | $1.80     | $21.98        | high           | high   | 6      | namecheap                                   |
+| ordinary.ngo      | available | $16.99    | —             | high           | low    | 8      | name.com                                    |
+| coverall.site     | available | —         | —             | high           | high   | 8      | —                                           |
+| crowd.ca          | resell    | —         | —             | high           | low    | 5      | Go Daddy Domains Canada, Inc                |
+| community.surgery | premium   | $242      | $242          | high           | medium | 9      | namesilo                                    |
+| axe.engineer      | available | $13.99    | —             | high           | low    | 3      | name.com                                    |
+| radar.markets     | resell    | $9.99     | —             | high           | low    | 5      | Dynadot Inc                                 |
+| add.press         | premium   | $625      | —             | high           | low    | 3      | name.com                                    |
+| bay.tires         | available | $5.99     | $78.99        | high           | low    | 3      | namesilo                                    |
+| sports.theater    | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                 |
+| aid.lease         | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
+| beg.shiksha       | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| bay.golf          | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                 |
+| aid.phd           | premium   | $411.25   | —             | high           | low    | 3      | name.com                                    |
+| beg.tips          | available | $14.99    | —             | high           | low    | 3      | name.com                                    |
+| mom.club          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
+| ann.guide         | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
+| clv.archi         | available | $14.98    | $132.98       | high           | low    | 3      | namecheap                                   |
+| mum.net           | resell    | —         | —             | high           | low    | 3      | GoDaddy Online Services Cayman Islands Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 86,001 live domains                        |
+| 1,000-row public sample | 79,046 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 154 high-demand names under $2,500         |
+| Basic exported fields   | 117 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
