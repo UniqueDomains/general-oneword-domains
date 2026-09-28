@@ -1,10 +1,10 @@
-# General One-Word Domain Names Across 506 TLDs (126,807)
+# General One-Word Domain Names Across 506 TLDs (128,001)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-126%2C807%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-128%2C001%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 121,714 one-word domain names spanning 506 TLDs, from .tax and .security to .shoes and .army. The median ask across this list is $695, reflecting a broad general-purpose mix rather than a single niche. Updated daily to reflect current pricing and availability.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **126,807 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **128,001 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 126,807 domains · **Median ask:** $327.04 · **High-demand under $2,500:** 380
+**Public extract:** 1,000 rows · **Live catalog:** 128,001 domains · **Median ask:** $324.28 · **High-demand under $2,500:** 377
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/sector/general`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| eclectic.estate | available | $15.99    | $38.99        | high           | low    | 8      | namesilo                                                |
-| main.buzz       | premium   | $116      | $53.92        | high           | low    | 4      | namesilo                                                |
-| domain.realty   | premium   | $2,275    | $3,250        | high           | medium | 6      | namecheap                                               |
-| group.lease     | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo                                                |
-| leader.charity  | available | $7.48     | $37.98        | high           | low    | 6      | namecheap                                               |
-| afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap                                               |
-| bet.news        | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                                          |
-| bug.study       | premium   | $625      | —             | high           | low    | 3      | name.com                                                |
-| ala.markets     | available | $9.99     | —             | high           | low    | 3      | name.com                                                |
-| fop.co          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
-| den.tube        | premium   | $650      | $26           | high           | low    | 3      | namecheap                                               |
-| bag.realty      | available | $99.80    | $456.98       | high           | low    | 3      | namecheap                                               |
-| sku.us          | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC                                        |
-| flu.fyi         | premium   | $17.70    | $17.70        | high           | low    | 3      | namesilo                                                |
-| cow.management  | available | $25.99    | $25.99        | high           | low    | 3      | namesilo                                                |
-| beer.farm       | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                             |
-| fur.cam         | premium   | $512      | $16.52        | high           | low    | 3      | namesilo                                                |
-| cue.homes       | available | $1.99     | $17.29        | high           | low    | 3      | namesilo                                                |
-| birch.ltd       | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| gal.now         | premium   | $116      | $116          | high           | low    | 3      | namesilo                                                |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| eclectic.estate | available | $15.99    | $38.99        | high           | low    | 8      | namesilo         |
+| main.buzz       | premium   | $116      | $53.92        | high           | low    | 4      | namesilo         |
+| domain.realty   | premium   | $2,275    | $3,250        | high           | medium | 6      | namecheap        |
+| group.lease     | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo         |
+| leader.charity  | available | $7.48     | $37.98        | high           | low    | 6      | namecheap        |
+| afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap        |
+| bet.news        | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.   |
+| bug.study       | premium   | $625      | —             | high           | low    | 3      | name.com         |
+| bag.realty      | available | $99.80    | $456.98       | high           | low    | 3      | namecheap        |
+| fop.co          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| den.tube        | premium   | $650      | $26           | high           | low    | 3      | namecheap        |
+| cow.management  | available | $25.99    | $25.99        | high           | low    | 3      | namesilo         |
+| sku.us          | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC |
+| flu.fyi         | premium   | $17.70    | $17.70        | high           | low    | 3      | namesilo         |
+| cue.homes       | available | $1.99     | $17.29        | high           | low    | 3      | namesilo         |
+| beer.farm       | resell    | —         | —             | high           | low    | 4      | Porkbun LLC      |
+| fur.cam         | premium   | $512      | $16.52        | high           | low    | 3      | namesilo         |
+| hut.barcelona   | available | $38.98    | $38.98        | high           | low    | 3      | namecheap        |
+| pets.name       | resell    | —         | —             | low            | low    | 4      | —                |
+| gal.now         | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 126,807 live domains                       |
+| 1,000-row public sample | 128,001 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 380 high-demand names under $2,500         |
+| Basic exported fields   | 377 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *General One-Word Domain Names Across 506 TLDs*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *General One-Word Domain Names Across 506 TLDs*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
