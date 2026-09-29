@@ -71,19 +71,19 @@ print(df.head())
 | leader.charity  | available | $7.48     | $37.98        | high           | low    | 6      | namecheap        |
 | afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap        |
 | bet.news        | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.   |
-| bug.study       | premium   | $625      | —             | high           | low    | 3      | name.com         |
+| ard.blackfriday | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun          |
 | bag.realty      | available | $99.80    | $456.98       | high           | low    | 3      | namecheap        |
 | fop.co          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| den.tube        | premium   | $650      | $26           | high           | low    | 3      | namecheap        |
+| bug.study       | premium   | $546.35   | $546.35       | high           | low    | 3      | porkbun          |
 | cow.management  | available | $25.99    | $25.99        | high           | low    | 3      | namesilo         |
 | sku.us          | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC |
-| flu.fyi         | premium   | $17.70    | $17.70        | high           | low    | 3      | namesilo         |
+| den.tube        | premium   | $650      | $26           | high           | low    | 3      | namecheap        |
 | cue.homes       | available | $1.99     | $17.29        | high           | low    | 3      | namesilo         |
-| beer.farm       | resell    | —         | —             | high           | low    | 4      | Porkbun LLC      |
-| fur.cam         | premium   | $512      | $16.52        | high           | low    | 3      | namesilo         |
+| beer.farm       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| fax.horse       | premium   | $512      | $29.50        | high           | low    | 3      | namesilo         |
 | hut.barcelona   | available | $38.98    | $38.98        | high           | low    | 3      | namecheap        |
 | pets.name       | resell    | —         | —             | low            | low    | 4      | —                |
-| gal.now         | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
+| fbi.racing      | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
