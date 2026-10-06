@@ -1,10 +1,10 @@
-# General One-Word Domain Names Across 506 TLDs (144,966)
+# General One-Word Domain Names Across 506 TLDs (149,011)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-144%2C966%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-149%2C011%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 121,714 one-word domain names spanning 506 TLDs, from .tax and .security to .shoes and .army. The median ask across this list is $695, reflecting a broad general-purpose mix rather than a single niche. Updated daily to reflect current pricing and availability.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **144,966 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **149,011 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 144,966 domains · **Median ask:** $292.12 · **High-demand under $2,500:** 378
+**Public extract:** 1,000 rows · **Live catalog:** 149,011 domains · **Median ask:** $285.96 · **High-demand under $2,500:** 366
 
-**Last updated:** 2026-10-04
+**Last updated:** 2026-10-06
 **Canonical page:** `https://unique.domains/domains/sector/general`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| all.democrat      | available | $7.25     | $32.99        | high           | medium | 3      | namesilo                   |
-| broad.health      | resell    | $89.99    | $103.99       | medium         | low    | 5      | Spaceship, Inc.            |
-| all.band          | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                   |
-| all.hiv           | available | $195.99   | $195.99       | high           | medium | 3      | namesilo                   |
-| broad.llc         | resell    | $19.99    | $54.99        | medium         | low    | 5      | Sav.com, LLC               |
-| all.deal          | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                   |
-| all.new           | available | $488.98   | $601.98       | high           | medium | 3      | namecheap                  |
-| all.guru          | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                |
-| all.diy           | premium   | $910      | $1,300        | high           | medium | 3      | namecheap                  |
-| broad.academy     | available | $7.45     | $37.46        | medium         | low    | 5      | spaceship                  |
-| all.singles       | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC           |
-| all.how           | premium   | $768.30   | $768.30       | high           | medium | 3      | namecheap                  |
-| broad.accountants | available | $90.20    | $90.20        | medium         | low    | 5      | cloudflare                 |
-| all.today         | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.            |
-| all.lifestyle     | premium   | $910      | $1,300        | high           | medium | 3      | namecheap                  |
-| broad.actor       | available | $8.48     | $35.39        | medium         | low    | 5      | spaceship                  |
-| all.wine          | resell    | —         | —             | high           | medium | 3      | 1API GmbH                  |
-| all.limited       | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                  |
-| broad.adult       | available | $95.20    | $95.20        | medium         | low    | 5      | cloudflare                 |
-| basic.world       | resell    | —         | —             | high           | low    | 5      | Squarespace Domains II LLC |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| all.camera        | available | $58.99    | $58.99        | high           | medium | 3      | namesilo                                                |
+| broad.health      | resell    | $89.99    | $103.99       | medium         | low    | 5      | Spaceship, Inc.                                         |
+| all.berlin        | premium   | $1,296.10 | $1,296.10     | high           | medium | 3      | namecheap                                               |
+| all.navy          | available | $41.99    | $41.99        | high           | medium | 3      | namesilo                                                |
+| broad.llc         | resell    | $19.99    | $54.99        | medium         | low    | 5      | Sav.com, LLC                                            |
+| all.deals         | premium   | $854      | $854          | high           | medium | 3      | namesilo                                                |
+| all.reise         | available | $27.89    | $97.99        | high           | medium | 3      | namesilo                                                |
+| overall.com       | resell    | $109,020  | $17.99        | high           | low    | 7      | GoDaddy.com, LLC                                        |
+| all.dentist       | premium   | $512      | $512          | high           | medium | 3      | namesilo                                                |
+| all.surgery       | available | $54.99    | $54.99        | high           | medium | 3      | namesilo                                                |
+| all.beer          | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| all.esq           | premium   | $843.70   | $843.70       | high           | medium | 3      | namecheap                                               |
+| broad.accountants | available | $90.20    | $90.20        | medium         | low    | 5      | cloudflare                                              |
+| all.contact       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                             |
+| all.fishing       | premium   | $96       | $29.50        | high           | medium | 3      | namesilo                                                |
+| broad.actor       | available | $8.48     | $35.39        | medium         | low    | 5      | spaceship                                               |
+| all.cricket       | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| all.gripe         | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                |
+| broad.adult       | available | $95.20    | $95.20        | medium         | low    | 5      | cloudflare                                              |
+| all.finance       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 144,966 live domains                                 |
+| 1,000-row public sample | 149,011 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 378 high-demand names under $2,500                   |
+| Basic exported fields   | 366 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *General One-Word Domain Names Across 506 TLDs*. Version 2026-10-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *General One-Word Domain Names Across 506 TLDs*. Version 2026-10-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
