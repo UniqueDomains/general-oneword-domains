@@ -1,10 +1,10 @@
-# General One-Word Domain Names Across 506 TLDs (161,040)
+# General One-Word Domain Names Across 506 TLDs (161,535)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-161%2C040%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-161%2C535%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 121,714 one-word domain names spanning 506 TLDs, from .tax and .security to .shoes and .army. The median ask across this list is $695, reflecting a broad general-purpose mix rather than a single niche. Updated daily to reflect current pricing and availability.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **161,040 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **161,535 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 161,040 domains · **Median ask:** $261.34 · **High-demand under $2,500:** 452
+**Public extract:** 1,000 rows · **Live catalog:** 161,535 domains · **Median ask:** $260.79 · **High-demand under $2,500:** 367
 
 **Last updated:** 2026-10-16
 **Canonical page:** `https://unique.domains/domains/sector/general`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| all.hosting        | available | $309.99   | $429.99       | high           | medium | 3      | namesilo             |
-| all.clothing       | resell    | $38.94    | $38.94        | high           | medium | 3      | Sav.com, LLC         |
-| all.bike           | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo             |
-| all.schule         | available | $28.99    | $28.99        | high           | medium | 3      | namesilo             |
-| broad.homes        | resell    | $1.99     | $20.99        | medium         | low    | 5      | Spaceship, Inc.      |
-| all.black          | premium   | $2,660    | $2,660        | high           | medium | 3      | namesilo             |
-| wide.gay           | available | $2.99     | $38.99        | high           | low    | 4      | namesilo             |
-| all.asia           | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.         |
-| all.blog           | premium   | $1,625    | $6,500        | high           | medium | 3      | namecheap            |
-| wide.international | available | $12.99    | $31.49        | high           | low    | 4      | namesilo             |
-| all.baby           | resell    | —         | —             | high           | medium | 3      | Dynadot Inc          |
-| all.boutique       | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo             |
-| broad.ac           | available | $25.88    | $46.58        | medium         | low    | 5      | spaceship            |
-| all.boston         | resell    | —         | —             | high           | medium | 3      | Hello Internet Corp. |
-| all.build          | premium   | $1,950    | $1,950        | high           | medium | 3      | namecheap            |
-| broad.ag           | available | $89.99    | $79.99        | medium         | low    | 5      | namesilo             |
-| all.company        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc          |
-| all.courses        | premium   | $650      | $650          | high           | medium | 3      | namecheap            |
-| broad.airforce     | available | $85.82    | $85.82        | medium         | low    | 5      | dynadot              |
-| all.computer       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc          |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| all.car           | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo        |
+| all.bot           | resell    | $625      | $625          | high           | medium | 3      | Dynadot, LLC    |
+| all.accountants   | premium   | $512      | $512          | high           | medium | 3      | namesilo        |
+| all.diet          | available | $104.99   | $114.99       | high           | medium | 3      | namesilo        |
+| broad.health      | resell    | $89.99    | $103.99       | medium         | low    | 5      | Spaceship, Inc. |
+| all.careers       | premium   | $512      | $512          | high           | medium | 3      | namesilo        |
+| all.maison        | available | $57.99    | $57.99        | high           | medium | 3      | namesilo        |
+| broad.llc         | resell    | $19.99    | $54.99        | medium         | low    | 5      | Sav.com, LLC    |
+| all.codes         | premium   | $3,900    | $3,900        | high           | medium | 3      | namecheap       |
+| all.tienda        | available | $59.99    | $59.99        | high           | medium | 3      | namesilo        |
+| common.best       | resell    | $2.35     | $17.79        | high           | low    | 6      | Spaceship, Inc. |
+| all.equipment     | premium   | $512      | $512          | high           | medium | 3      | namesilo        |
+| broad.academy     | available | $7.45     | $37.46        | medium         | low    | 5      | spaceship       |
+| all.cool          | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.    |
+| all.expert        | premium   | $512      | $512          | high           | medium | 3      | namesilo        |
+| broad.accountants | available | $90.20    | $90.20        | medium         | low    | 5      | cloudflare      |
+| all.so            | resell    | —         | —             | high           | medium | 3      | Dynadot LLC     |
+| all.food          | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo        |
+| broad.adult       | available | $95.20    | $95.20        | medium         | low    | 5      | cloudflare      |
+| all.supplies      | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 161,040 live domains                                 |
+| 1,000-row public sample | 161,535 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 452 high-demand names under $2,500                   |
+| Basic exported fields   | 367 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
