@@ -1,10 +1,10 @@
-# General One-Word Domain Names Across 506 TLDs (163,701)
+# General One-Word Domain Names Across 506 TLDs (154,074)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-163%2C701%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-154%2C074%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 121,714 one-word domain names spanning 506 TLDs, from .tax and .security to .shoes and .army. The median ask across this list is $695, reflecting a broad general-purpose mix rather than a single niche. Updated daily to reflect current pricing and availability.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **163,701 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **154,074 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 163,701 domains · **Median ask:** $259.03 · **High-demand under $2,500:** 341
+**Public extract:** 1,000 rows · **Live catalog:** 154,074 domains · **Median ask:** $271.19 · **High-demand under $2,500:** 2,395
 
-**Last updated:** 2026-10-21
+**Last updated:** 2026-10-23
 **Canonical page:** `https://unique.domains/domains/sector/general`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| all.hosting   | available | $309.99   | $429.99       | high           | medium | 3      | namesilo        |
-| broad.homes   | resell    | $1.99     | $20.99        | medium         | low    | 5      | Spaceship, Inc. |
-| all.bike      | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo        |
-| all.ltda      | available | $34.99    | $34.99        | high           | medium | 3      | namesilo        |
-| common.best   | resell    | $2.35     | $17.79        | high           | low    | 6      | Spaceship, Inc. |
-| all.black     | premium   | $2,660    | $2,660        | high           | medium | 3      | namesilo        |
-| all.schule    | available | $28.99    | $28.99        | high           | medium | 3      | namesilo        |
-| all.asia      | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.    |
-| all.build     | premium   | $1,950    | $1,950        | high           | medium | 3      | namecheap       |
-| all.vana      | available | $2,298    | $2,498        | high           | medium | 3      | namecheap       |
-| all.baby      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
-| all.christmas | premium   | $832      | $832          | high           | medium | 3      | namesilo        |
-| wide.courses  | available | $2.19     | $38.99        | high           | low    | 4      | namesilo        |
-| all.bz        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
-| all.exposed   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo        |
-| wide.degree   | available | $52.99    | $52.99        | high           | low    | 4      | namesilo        |
-| all.company   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
-| all.free      | premium   | $3,450    | $3,450        | high           | medium | 3      | namesilo        |
-| wide.how      | available | $21.62    | $21.62        | high           | low    | 4      | dynadot         |
-| all.now       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
+| eclectic.estate  | available | $15       | $38.99        | high           | low    | 8      | unstoppable    |
+| totality.domains | available | $59.99    | $59.99        | high           | medium | 8      | namesilo       |
+| main.buzz        | premium   | $116      | $53.92        | high           | medium | 4      | namesilo       |
+| domain.realty    | premium   | $1,811.45 | $2,587.70     | high           | high   | 6      | spaceship      |
+| group.lease      | premium   | $102.67   | $102.67       | high           | medium | 5      | spaceship      |
+| leader.charity   | available | $14.99    | $23.99        | high           | low    | 6      | namesilo       |
+| aaj.sarl         | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo       |
+| bet.news         | resell    | —         | —             | high           | low    | 3      | Name.com, Inc. |
+| ack.miami        | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo       |
+| aav.voto         | available | $26.50    | —             | high           | low    | 3      | unstoppable    |
+| beer.farm        | resell    | —         | —             | high           | low    | 4      | Porkbun LLC    |
+| ard.blackfriday  | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun        |
+| adj.cam          | available | $1.70     | $14.69        | medium         | low    | 3      | spaceship      |
+| lava.systems     | resell    | —         | —             | high           | medium | 4      | —              |
+| bfa.guide        | premium   | $36.30    | $36.30        | medium         | low    | 3      | dynadot        |
+| afl.forsale      | available | $13.98    | $47.48        | high           | low    | 3      | namecheap      |
+| pets.name        | resell    | —         | —             | low            | low    | 4      | —              |
+| bug.study        | premium   | $546.35   | $546.35       | high           | medium | 3      | porkbun        |
+| agn.condos       | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo       |
+| zine.lol         | resell    | —         | —             | high           | low    | 4      | —              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 163,701 live domains                                 |
+| 1,000-row public sample | 154,074 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 341 high-demand names under $2,500                   |
+| Basic exported fields   | 2,395 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *General One-Word Domain Names Across 506 TLDs*. Version 2026-10-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *General One-Word Domain Names Across 506 TLDs*. Version 2026-10-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
