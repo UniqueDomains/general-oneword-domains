@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
-| eclectic.estate  | available | $15       | $38.99        | high           | low    | 8      | unstoppable    |
-| totality.domains | available | $59.99    | $59.99        | high           | medium | 8      | namesilo       |
-| main.buzz        | premium   | $116      | $53.92        | high           | medium | 4      | namesilo       |
-| domain.realty    | premium   | $2,750    | $2,750        | high           | high   | 6      | dynadot        |
-| group.lease      | premium   | $102.67   | $102.67       | high           | medium | 5      | spaceship      |
-| leader.charity   | available | $14.99    | $23.99        | high           | low    | 6      | namesilo       |
-| aaj.sarl         | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo       |
-| bet.news         | resell    | —         | —             | high           | low    | 3      | Name.com, Inc. |
-| ack.miami        | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo       |
-| aav.voto         | available | $26.50    | —             | high           | low    | 3      | unstoppable    |
-| beer.farm        | resell    | —         | —             | high           | low    | 4      | Porkbun LLC    |
-| ard.blackfriday  | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun        |
-| adj.cam          | available | $1.70     | $14.69        | medium         | low    | 3      | spaceship      |
-| lava.systems     | resell    | —         | —             | high           | medium | 4      | —              |
-| bfa.guide        | premium   | $36.30    | $36.30        | medium         | low    | 3      | dynadot        |
-| afl.forsale      | available | $13.98    | $47.48        | high           | low    | 3      | namecheap      |
-| pets.name        | resell    | —         | —             | low            | low    | 4      | —              |
-| bug.study        | premium   | $546.35   | $546.35       | high           | medium | 3      | porkbun        |
-| agn.condos       | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo       |
-| zine.lol         | resell    | —         | —             | high           | low    | 4      | —              |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| eclectic.estate  | available | $15       | $38.99        | high           | low    | 8      | unstoppable                                             |
+| totality.domains | available | $59.99    | $59.99        | high           | medium | 8      | namesilo                                                |
+| main.buzz        | premium   | $116      | $53.92        | high           | medium | 4      | namesilo                                                |
+| domain.realty    | premium   | $1,811.45 | $2,587.70     | high           | high   | 6      | spaceship                                               |
+| group.lease      | premium   | $102.67   | $102.67       | high           | medium | 5      | spaceship                                               |
+| leader.charity   | available | $6.41     | $22.39        | high           | low    | 6      | spaceship                                               |
+| aaj.sarl         | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo                                                |
+| bet.news         | resell    | —         | —             | high           | low    | 3      | Name.com, Inc.                                          |
+| ack.miami        | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                |
+| aav.voto         | available | $26.50    | —             | high           | low    | 3      | unstoppable                                             |
+| lava.systems     | resell    | —         | —             | high           | medium | 4      | —                                                       |
+| ard.blackfriday  | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun                                                 |
+| adj.cam          | available | $1.70     | $14.69        | medium         | low    | 3      | spaceship                                               |
+| pets.name        | resell    | —         | —             | low            | low    | 4      | —                                                       |
+| bfa.guide        | premium   | $36.30    | $36.30        | medium         | low    | 3      | dynadot                                                 |
+| afl.forsale      | available | $13.98    | $47.48        | high           | low    | 3      | namecheap                                               |
+| zine.lol         | resell    | —         | —             | high           | low    | 4      | —                                                       |
+| bug.study        | premium   | $546.35   | $546.35       | high           | medium | 3      | porkbun                                                 |
+| agn.condos       | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo                                                |
+| birch.ltd        | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
